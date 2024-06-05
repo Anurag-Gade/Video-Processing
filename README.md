@@ -12,3 +12,5 @@ Notebook 4 - Code for performing video sharpening on the video using Sobel and L
 
 Notebook 5 - Code for performing frame-wise 2-dimensional Discrete Fourier Transform (2D-DFT) on a given video.
 
+This was done as a part of the Assignment 1 of the course EEE 435, Digital Image Processing at BITS Pilani, Hyderabad Campus.
+
